@@ -1,0 +1,12 @@
+body {
+
+    background-color: #2A2C2F;
+}
+
+@font-face { 
+    src:   url(../Inter-4.0/InterVariable.ttf) format("woff");
+  font-family: "inter"; }
+
+
+    
+  
